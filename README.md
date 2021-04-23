@@ -2,17 +2,18 @@
 Reproducing some interesting charts that I saw online using [d3.js](https://github.com/d3/d3)
 
 ## Demo
+https://chen0gao.github.io/Visual-Plot/
 
 ## Table of Contents
 1. [Setup](#Setup)
 2. [Usage](#Usage)
-   - [Timeline](#Timeline)
-   - [Calendar](#Calendar)
-   - [Arc Slide](#Arc+Slide)
-   - [Bubble](#Bubble)
-   - [Map (svg)](#Map+(svg))
-3. [To-Do List](#To-Do+List)
-4. [Reference](#Reference)
+   - [Timeline](#timeline)
+   - [Calendar](#calendar)
+   - [Arc Slide](#arc-slide)
+   - [Bubble](#bubble)
+   - [Map (svg)](#map-svg)
+3. [To-Do List](#to-do-list)
+4. [Reference](#reference)
 
 
 ## Setup
@@ -53,7 +54,7 @@ let visual_plot = new VisualPlot(
    })
 visual_plot.timeline()
 ```
-![](img/timeline.png)
+![](https://github.com/chen0gao/Visual-Plot/blob/main/img/timeline.PNG?raw=true)
 
 ### Calendar
 ```javascript
@@ -81,7 +82,7 @@ visual_plot.init(
 )
 visual_plot.calendar()
 ```
-![](img/calendar.png)
+![](https://github.com/chen0gao/Visual-Plot/blob/main/img/calendar.PNG?raw=true)
 
 ### Arc Slide
 ```javascript
@@ -105,7 +106,7 @@ visual_plot.init(
 })
 visual_plot.arcSlice()
 ```
-![](img/arcSlice.png)
+![](https://github.com/chen0gao/Visual-Plot/blob/main/img/arcSlice.PNG?raw=true)
 
 ### Bubble
 ```javascript
@@ -129,7 +130,7 @@ visual_plot.init(
 })
 visual_plot.bubble()
 ```
-![](img/bubble.png)
+![](https://github.com/chen0gao/Visual-Plot/blob/main/img/bubble.PNG?raw=true)
 
 
 ### Map (svg)
@@ -155,7 +156,7 @@ visual_plot.init(
 })
 visual_plot.svgMap()
 ```
-![](img/svgMap.png)
+![](https://github.com/chen0gao/Visual-Plot/blob/main/img/svgMap.PNG?raw=true)
 
 
 ## To-do List
