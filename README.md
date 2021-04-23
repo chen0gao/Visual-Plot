@@ -1,5 +1,5 @@
 # Visual Plot
-Reproducing some interesting charts that I saw online using [d3.js](https://github.com/d3/d3)
+Reproducing some interesting online charts using [d3.js](https://github.com/d3/d3)
 
 ## Demo
 https://chen0gao.github.io/Visual-Plot/
